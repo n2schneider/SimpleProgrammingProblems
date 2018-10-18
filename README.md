@@ -6,6 +6,7 @@ Elementary
 
 2018_10_16 (HelloWorld.py) Write a program that prints ‘Hello World’ to the screen.  
 2018_10_17 (Name.py) Write a program that asks the user for their name and greets them with their name.
+
 2018_10_18 (AliceAndBob.py) Modify the previous program such that only the users Alice and Bob are greeted with their names.
 
 Write a program that asks the user for a number n and prints the sum of the numbers 1 to n

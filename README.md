@@ -16,7 +16,8 @@ Elementary
 
 2018_10_23 (SummationOrProduct.py) Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.
 
-Write a program that prints a multiplication table for numbers up to 12.
+2018_10_26 (MultiplicationTable.py) Write a program that prints a multiplication table for numbers up to 12.
+
 Write a program that prints all prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
 Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.
 Write a program that prints the next 20 leap years.
